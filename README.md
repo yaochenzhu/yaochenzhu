@@ -1,5 +1,5 @@
 ### Hi there, this is Yaochen! I'm:
- 🔭 A master student at Wuhan University,   
+ 🔭 A post-graduate student at Wuhan University,   
  🌱 An amature guitar player that happens to know how to code,   
  😄 A novice researcher of Data Mining, RS and MM.  
 
