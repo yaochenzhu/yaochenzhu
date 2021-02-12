@@ -1,8 +1,8 @@
 ### Hi there this is Yaochen! I'm:
- A master student at Wuhan University,   
- an amature guitar player that happens to know how to code,   
- really interested in probabilistic models, deep learning,  
- novice researcher of Data Mining, RS and MM.  
+ 🔭 A master student at Wuhan University,   
+ 🌱 An amature guitar player that happens to know how to code,   
+ 😄 Really interested in probabilistic models, deep learning,  
+ 🤔 A novice researcher of Data Mining, RS and MM.  
 
 <!--
 **yaochenzhu/yaochenzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
