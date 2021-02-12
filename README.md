@@ -1,8 +1,11 @@
 ### Hi there this is Yaochen👋
 
 -I'm: A master student at Wuhan University, 
+
 -an amature guitar player that happens to know how to code,
+
 -dumb but really interested in probabilistic models, deep learning,
+
 -novice researcher of user modeling, recommender system and multimodal content analysis.
 
 <!--
