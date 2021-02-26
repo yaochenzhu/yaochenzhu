@@ -1,4 +1,4 @@
 ### Hi there, this is Yaochen! I'm:
- 🔭 A post-graduate student at Wuhan University,   
- 🌱 An amature guitar player that hows to code,   
- 😄 A novice researcher of Data Mining, RS and MM.  
+ 🔭 A CS post-graduate student at Wuhan University,   
+ 🌱 An amature guitar player that happens to know math and code,   
+ 😄 A researcher of Data Mining, RecSys and Multimedia.  
